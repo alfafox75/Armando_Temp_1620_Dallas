@@ -6,3 +6,5 @@
  b) OneWire.zip
  c) Arduino-Temperature-Control-Library-master.zip
 4) Fare l'upload dello sketch
+
+https://www.progettiarduino.com/42-arduino-temperatura-e-display-i2c-con-ds18b20-dallas.html
